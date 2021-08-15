@@ -1,4 +1,4 @@
-# electronic_store
+# Electronic_Store
 
 # IndexDB_CRUD_Operations
 
