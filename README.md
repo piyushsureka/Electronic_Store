@@ -1,6 +1,6 @@
 # electronic_store
 
-#IndexDB_CRUD_Operations
+# IndexDB_CRUD_Operations
 
 In this project we gonna learn how to create, read, update and delete data from indexdb database using Dexie library.
 
